@@ -1,54 +1,54 @@
 {
-  "bg": "https://lh3.googleusercontent.com/oYg5iMOwHDahCsBTxZ7L8WaQZTqPqmtV-C006l8ovXqNYYTFcOSlNTOT2mih7hPoBUqRjWqwx2e3JVCzvDF5SPjYL7Z5AN7wRC-lXDFS6tOkwY6WXv-Iyh6uHNLbKYkkn9l7cf3K3VPu4aOu1y5knaYFq6BHz1jqqoPlGTOoL3L6LD43oCutyINWzTXAowSb9UuAeioxHKG4qzIf4TzRwy9K_abtY2NmtzX9adTIdFol_v1CQjR0QzyckU1BIqDLBXoQioCIqFsREz3O-jpR5YKKIpW3_sGv3690YJ60-CNbulaKqBiC_Gtop0w8fatH_u_CaSgpoogc4KVi7sunhQsKgDNxis_AR9_VbgSaNgWxvMbNwEzcfadMd4a1hGZSXoAGTI9sv2Gq4kN9KzHf-7sStzZGeSLglp59S-Q24v0Hx6NONHgTat9ZVkq1D6Dsh9WaMw_2dgnu3RJ5OF8qwbgc_NusVKFTeF9anj4j0vvyj4oJBDvfijBjkvEXBSdDYjZ0gQoG_aRUJkJCFddjtZehbOScdK8hMXMkrMRdl9M20Mjt4BxqRyUFeqe2y51H7CrznBBL06MLJTdyeN5aXGN6HiF7D8L6mtUMHs-O3xWXdfTK8ESY4LKR9RhMQZEKTmP63U4cyIWsvsc6c-45pg15fPdlqNRmmpoGbPN5Ime-6ONE-Dx_xswgOAB4pn0=w360-h480-no?authuser=0",
-  "title": "Perguntados da Larinha",
+  "bg": "",
+  "title": "Perguntados Perguntados",
   "description": "Teste os seus conhecimentos o mundo",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/E3R1raza50Mec/giphy.gif",
-      "title": "Quem é o melhor amigo do Ted Mosby?",
+      "image": "https://media0.giphy.com/media/l0CLTpb3EkhCyZJn2/giphy.gif?cid=790b76110d1f92c5cc1422c1677f87c49f3869b6dcfc6048&rid=giphy.gif&ct=g",
+      "title": "Quantos titulos Brasileiros o Flamengo tem?",
       "description": "Essa é pra aquecer",
-      "answer": 1,
+      "answer": 0,
       "alternatives": [
-        "Barney",
-        "Marshall",
-        "Lilly",
-        "Marshall e Barney"
+        "8 titulos",
+        "6 titulos",
+        "4 titulos",
+        "9 Titulos"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/gr5qY4qj8G96o/giphy.gif",
-      "title": "Qual é a maior especie de Pinguim que existe?",
+      "image": "https://media.giphy.com/media/p37zQEvmBhwLipmiqV/giphy.gif",
+      "title": "Quem foi a dupla do Bebeto em 94?",
       "description": "Essa é facil em haha",
       "answer": 3,
       "alternatives": [
-         "Pinguim Imperial",
-         "Pinguim Rei",
-         "Pinguim Real",
-         "Pinguim Imperador"
+         "Neymar",
+         "Ronaldo",
+         "Zidane",
+         "Romario"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/l3q2XnJo1OVj2pgmQ/giphy.gif",
-      "title": "Qual a peça mais valioza do xadrez?",
+      "image": "https://media.giphy.com/media/3o7qE5866bLg4VKabe/giphy.gif",
+      "title": "Qual a capital da Austrália?",
       "description": "Essa é meio dificil em haha",
       "answer": 0,
       "alternatives": [
-         "Rei",
-         "Dama",
+         "Camberra",
+         "Sidney",
          "Cavalo",
          "Bispo"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Tyny3ZEDshlZe/giphy.gif",
-      "title": "Luke e Leia fazem parte da?",
+      "image": "https://media.giphy.com/media/1wXf1MoX54ZJQKnPD8/giphy.gif",
+      "title": "Quantos gols tem cr7?",
       "description": "Essa é muito facil haha",
       "answer": 2,
       "alternatives": [
-         "Imperio",
-         "Caçadores de tesouro",
-         "Resistencia",
-         "Primeira ordem"
+         "De 500 a 550",
+         "De 400 a 500",
+         "De 760 a 800",
+         "De 100 a 400"
       ]
     },
     {

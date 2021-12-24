@@ -40,7 +40,7 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       <Head>
         <title>
-          Perguntados da Lara -
+          Perguntados Perguntados -
           {db.title}
         </title>
       </Head>
